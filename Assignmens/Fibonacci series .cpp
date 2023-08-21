@@ -1,4 +1,4 @@
-// To calculate fibonacci value of number and count number of steps using Iterative and Recursive method.
+// To calculate fibonacci value of number and count number of steps using Iterative and Recursive method..
 
 #include <bits/stdc++.h> 
 using namespace std;
