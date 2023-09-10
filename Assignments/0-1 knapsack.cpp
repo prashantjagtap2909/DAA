@@ -1,7 +1,6 @@
 // Assignment 4 : Write a program to solve a 0-1 Knapsack problem using dynamic programming.
 
 
-
 #include <bits/stdc++.h>
 using namespace std;
 
@@ -52,3 +51,6 @@ int main()
     cout << knapSack(W, weight, profit, n);
     return 0;
 }
+
+
+// Time complexity - O(N * W)
