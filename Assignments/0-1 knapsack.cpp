@@ -1,9 +1,12 @@
+// Assignment 4 : Write a program to solve a 0-1 Knapsack problem using dynamic programming.
+
+
+
 #include <bits/stdc++.h>
 using namespace std;
 
 int knapSackRec(int W, int wt[], int val[], int index, int** dp)
 {
-    // base condition
     if (index < 0)
         return 0;
     if (dp[index][W] != -1)
