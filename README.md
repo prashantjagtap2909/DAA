@@ -6,3 +6,4 @@ Practical Assignments and Mini Project of Design and analysis of algorithm.
 
 ### Assignment 1 - [Fibonacci series]()
 ### Assignment 2 - [0-1 knapsack]()
+### Assignment 3 - [Job sequencing]()
