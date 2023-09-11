@@ -1,4 +1,4 @@
-// Assignment 2 - Implement job sequencing with deadlines using a greedy method
+// Assignment 3 - Implement job sequencing with deadlines using a greedy method
 
 
 #include<bits/stdc++.h>
