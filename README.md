@@ -2,7 +2,7 @@
 
 Practical Assignments and Mini Project of Design and analysis of algorithm.
 
-##[Assignment]()
+## [Assignment]()
 
 ### Assignment 1 - [Fibonacci series](https://github.com/prashantjagtap2909/DAA/blob/main/Assignments/Fibanacci%20number.cpp)
 ### Assignment 2 - [0-1 knapsack](https://github.com/prashantjagtap2909/DAA/blob/main/Assignments/0-1%20knapsack.cpp)
