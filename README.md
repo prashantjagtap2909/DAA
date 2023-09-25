@@ -13,3 +13,4 @@ Practical Assignments and Mini Project of Design and analysis of algorithm.
 
 
 ## [Mini project]()
+### [Matrix chain multiplication]
