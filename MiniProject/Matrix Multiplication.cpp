@@ -1,11 +1,7 @@
 // Write a program to implement matrix multiplication. Also implement multithreaded matrix multiplication with either one thread per row or one thread per cell. Analyze and compare their performance.
 
-
-
 #include <bits/stdc++.h>
 using namespace std;
-
-
 #define MAX 4
 #define MAX_THREAD 4
 
@@ -70,4 +66,5 @@ int main()
 	return 0;
 }
 
-
+// Time Complexity: O(1)
+// Auxiliary Space: O(1)
