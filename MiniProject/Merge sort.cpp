@@ -1,6 +1,4 @@
-// Implement merge sort and multithreaded merge sort. Compare time required
-by both the algorithms. Also analyze the performance of each algorithm for the best case and
-the worst case.
+// Implement merge sort and multithreaded merge sort. Compare time required by both the algorithms. Also analyze the performance of each algorithm for the best case and the worst case.
 
 
 
@@ -9,10 +7,7 @@ the worst case.
 #include <pthread.h>
 #include <time.h>
 
-
 #define MAX 20
-
-
 #define THREAD_MAX 4
 
 using namespace std;
@@ -132,3 +127,7 @@ int main()
 
 	return 0;
 }
+
+
+// Time Complexity: O(nLogn)
+// Space Complexity:  O(n)
